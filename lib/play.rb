@@ -39,5 +39,5 @@ end
 
 def play(board)
   end
-end
+  
 end
